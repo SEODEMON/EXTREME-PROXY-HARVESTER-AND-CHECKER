@@ -57,7 +57,7 @@ for($p=0; $p<count($proxies);$p++) {
           echo   "<img src=\"images/good.png\">&nbsp;&nbsp;<font color=\"#7CFC00\"><strong>" .$proxies[$p] . " </font></strong><font color=\"#FFFFE0\"><strong>   THIS IS A WORKING ANONYMOUS PROXY SAVED TO /goodproxies/success.txt</font></strong><font color=\"yellow\"><strong> " . "Total time: " .curl_getinfo($ch, CURLINFO_TOTAL_TIME)." seconds!</font></strong><img src=\"images/small.png\"> <br/><br/>"; 
             
 
-           $f=fopen($success, "a+"); 
+           $f=fopen($success, "a"); 
             fwrite($f, $proxies[$p]); 
             fclose($f); 
     } 
