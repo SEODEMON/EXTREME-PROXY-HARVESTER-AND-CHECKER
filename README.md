@@ -11,3 +11,8 @@
 ## SCREENSHOT
 
 ![alt tag](https://github.com/SEODEMON/EXTREME-PROXY-HARVESTER-AND-CHECKER/blob/master/images/screenshot/44.JPG)
+
+
+
+# Please Read The Instructions Here:
+https://github.com/SEODEMON/EXTREME-PROXY-HARVESTER-AND-CHECKER/blob/master/INSTRUCTIONS.pdf
