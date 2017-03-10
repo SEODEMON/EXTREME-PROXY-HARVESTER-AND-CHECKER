@@ -1,0 +1,70 @@
+body {background-color: #000000;} 
+h1 {text-align: center; margin-left: auto; margin-right: auto; top: 20px; color: #ffff00;}
+h2 {text-align: center; margin-left: auto; margin-right: auto; top: 40px; color: #ffff00;}
+
+div#badproxies{ 
+margin-top:3em;
+margin-left:3%;
+width:1800px;
+height:300px;
+overflow:scroll;
+overflow-x: hidden;
+direction:rtl;  
+text-align:left;
+scrollbar-track-color: silver;
+scrollbar-arrow-color: yellow;  
+
+
+} 
+   
+
+
+
+.bproxy{
+line-height:1.5em;
+
+
+}
+
+div#errorproxy{ 
+margin-top:3em;
+margin-left:3%;
+width:1800px;
+height:300px;
+overflow:scroll;
+overflow-x: hidden;
+direction:rtl;  
+text-align:left;
+scrollbar-track-color: silver;
+scrollbar-arrow-color: yellow; 
+
+
+}
+.eproxy{
+line-height:1.5em;
+
+
+}
+
+
+div#goodproxies{
+
+margin-top:3em;
+margin-left:3%;
+width:1800px;
+height:300px;
+overflow:scroll;
+overflow-x: hidden;
+direction:rtl;  
+text-align:left;
+scrollbar-track-color: silver;
+scrollbar-arrow-color: yellow; 
+
+}
+
+
+
+.gproxy{
+line-height:1.5em;
+
+}
