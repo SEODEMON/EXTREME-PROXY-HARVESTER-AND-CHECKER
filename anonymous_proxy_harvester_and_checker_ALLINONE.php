@@ -70,7 +70,11 @@ $uar = array_unique($uar);
   file_put_contents( 'leeched/proxies.txt',$str);
  
 
-
+// EXTREME PROXY HARVESTER AND CHECKER
+// CREATED WITH CURL AND PHP
+// BY PHP NINJA JEFF CHILDERS
+	
+	
 //Proxy Testing
 if(!is_file($fileName)) die ('Proxy file not available'); 
 $proxies = file($fileName);  
