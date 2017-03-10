@@ -42,7 +42,7 @@ foreach( $source as $sources ) {
 $c->addRequest(trim($sources));
 
 }
-$c->chunk(25);
+$c->chunk(2500);
 $c->perform();
 $proxies = array();
 foreach( $c->results as $url => $res ) {
