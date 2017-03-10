@@ -3,6 +3,7 @@
 class Curl {
 
 	protected $debugFile = 'curl.debug.txt';
+	
 	// If set $this->results is an an asoc. array [url] => [data]
 	public $resAsoc = true;
 	
