@@ -61,8 +61,9 @@ foreach($proxies as $url => $parr) {
 	file_put_contents('logs/counts.txt', $str2, FILE_APPEND);
 }
 
-$uar = file('leeched/proxies.txt');
-$uar = array_unique($uar);
+
+$leeched_proxy_file = file('leeched/proxies.txt');
+$uar = array_unique($leeched_proxy_file);
 
 	$str = implode("\n", $uar)."\n";
 	$str = preg_replace('/^\h*\v+/m', '', $str);
