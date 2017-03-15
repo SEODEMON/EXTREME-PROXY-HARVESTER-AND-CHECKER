@@ -1,0 +1,16 @@
+http://samair.ru/anonymity-test/
+http://txt.proxyspy.net/proxy.txt
+http://nntime.com/
+http://www.gatherproxy.com/
+http://proxysearcher.sourceforge.net/Proxy%20List.php?type=http&filtered=true
+http://proxyserverlist-24.blogspot.com/2016/11/01-11-16-fast-proxy-server-list.html
+https://cracking.org/threads/190x-anonymous-proxy-list.125920/
+http://samair.ru/proxy/list-IP-port/ip-address-12.htm
+http://www.businessadviceforum.com/threads/fastest-securest-proxies-on-the-web-new-proxy-lists-everyday.75326/page-10
+http://proxydb.net/?protocol=http&anonlvl=2&anonlvl=4&availability=90&response_time=10
+http://proxydb.net/?protocol=http&anonlvl=2&anonlvl=4&availability=90&response_time=10&offset=50
+http://proxydb.net/?protocol=http&anonlvl=2&anonlvl=4&availability=90&response_time=10&offset=100
+http://proxydb.net/?protocol=http&anonlvl=2&anonlvl=4&availability=90&response_time=10&offset=100
+http://proxydb.net/?protocol=http&anonlvl=2&anonlvl=4&availability=90&response_time=10&offset=150
+http://proxydb.net/?protocol=http&anonlvl=2&anonlvl=4&availability=90&response_time=10&offset=200
+http://www.nntime.com/proxy/
