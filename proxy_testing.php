@@ -9,7 +9,7 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body> 
-<h1>STAGE 2 - NOW TESTING FOR ANONYMOUS PROXIES ONLY</h1> 
+<h1>TESTING FOR ANONYMOUS PROXIES</h1> 
 <?php
 
 // EXTREME PROXY HARVESTER AND CHECKER
@@ -37,7 +37,7 @@ $success = "goodproxies/success.txt";
 
 {
 ob_start();
-echo '<h2>NOW TESTING PROXIES</h2>';
+
 if(!is_file($leeched_proxies)) die ('Proxy file not available'); 
 $proxies = file($leeched_proxies);  
 for($p=0; $p<count($proxies);$p++) {  
