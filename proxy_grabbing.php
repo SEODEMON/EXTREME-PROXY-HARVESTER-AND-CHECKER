@@ -9,7 +9,7 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body> 
-<h1>STAGE 1 - NOW GRABBING PROXIES</h1>           
+          
 <?php
 // EXTREME PROXY HARVESTER AND CHECKER
 // CREATED WITH CURL AND PHP
