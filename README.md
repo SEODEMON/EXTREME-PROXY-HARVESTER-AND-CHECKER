@@ -1,6 +1,6 @@
 # EXTREME-PROXY-HARVESTER-AND-CHECKER
 
-## I tried my best so far to improve this with the IMPROVED CODE file.  Maybe this NOT possible to do with PHP.  It uses just way too much in server resources.
+## IMPROVED CODE:  WORKS WELL FOR PHP
 
 
 
