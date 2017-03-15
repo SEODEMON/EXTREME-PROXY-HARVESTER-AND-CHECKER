@@ -37,13 +37,12 @@ $success = "goodproxies/success.txt";
 
 {
 ob_start();
-
 if(!is_file($leeched_proxies)) die ('Proxy file not available'); 
 $proxies = file($leeched_proxies);  
 for($p=0; $p<count($proxies);$p++) {  
     $ch = curl_init();  
                                      //CHANGE TO YOUR DOMAIN HERE
-    curl_setopt ($ch, CURLOPT_URL, "http://www.mydomain.com/check.php"); 
+    curl_setopt ($ch, CURLOPT_URL, "http://www.mydomain.com/proxy_judge.php"); 
     curl_setopt($ch, CURLOPT_HEADER, 1); //show headers 
     curl_setopt($ch, CURLOPT_HTTPGET,1); 
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);  
